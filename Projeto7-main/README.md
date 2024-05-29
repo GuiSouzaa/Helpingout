@@ -50,8 +50,6 @@ Coloque código do prompt de comnando se for necessário
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="https://react.dev">React</a>
@@ -65,8 +63,6 @@ Coloque código do prompt de comnando se for necessário
 
 ## 🗃 Histórico de lançamentos
 
-A cada atualização os detalhes devem ser lançados aqui.
-
 * 0.1.0 - 24/05/2024
     * Primeiro lançamento do projeto
 * 0.0.1 - 12/03/2024
@@ -74,7 +70,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 🎨 Design
 
-Um breve guia de desing onde é possível vizualizar guia de estilo e funcionalidade das páginas com seu desing. <a href="https://www.figma.com/design/WlHMmrTqceDR566HHC1A6D/Páginas-SiteHelpingOut?node-id=0-1&t=xtKXQLD6tX7Bg4Ft-0">Figma</a>
+ <a href="https://www.figma.com/design/WlHMmrTqceDR566HHC1A6D/Páginas-SiteHelpingOut?node-id=0-1&t=xtKXQLD6tX7Bg4Ft-0">Figma</a>
 
 ## 🎓 Referências
 
